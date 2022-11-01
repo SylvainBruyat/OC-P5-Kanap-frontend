@@ -19,7 +19,7 @@ function displayAllProducts(products){
     let items = document.getElementById("items");
     for (let product of products) {
         items.innerHTML += `
-            <a href="./product.html?id=${product._id}">
+            <a href="./html/product.html?id=${product._id}">
                 <article>
                     <img src="${product.imageUrl}" alt="${product.altTxt}">
                     <h3 class="productName">${product.name}</h3>

@@ -18,7 +18,7 @@ function displayEmptyCartMessage() {
         <p style="text-align: center;">Votre panier est vide.</p>
         <p style="text-align: center; margin-bottom: 40px;">
             N'hésitez pas à consulter notre 
-            <a href="./index.html" style="color: white;" onMouseOver="this.style.fontWeight='bold'" onMouseOut="this.style.fontWeight='normal'">
+            <a href="../index.html" style="color: white;" onMouseOver="this.style.fontWeight='bold'" onMouseOut="this.style.fontWeight='normal'">
             page d'accueil</a>
              pour voir tous nos produits.
         </p>
